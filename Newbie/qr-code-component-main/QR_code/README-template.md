@@ -8,12 +8,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with) - HTML and CSS
+  - [Built with](#built-with) : HTML and CSS
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
-- [Author](#author) - Iverson Richmond Lee
+  - [Useful resources](#useful-resources) : Figma
+  - [AI Collaboration](#ai-collaboration) : Claude
+- [Author](#author) : IvSonlee
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -41,38 +41,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+1) I learned how to import a font style from google fonts
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
@@ -90,6 +63,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ### AI Collaboration
+
+1) Claude
+- I asked how can I use the font provided at style-guide.md
+- I asked how to center an element vertically in a full height of the browser
 
 Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
 
