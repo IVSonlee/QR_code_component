@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-1) Created a external css folder and in my qr.code html I immediately createda stylesheet to implement my external css file
+1) Created 2 folders one for ui/ux design one for the programming and a  folder for external css folder and in my qr.code html I immediately createda stylesheet to implement my external css file
 2) Changed the title tag to Frontend Mentor | QR code component
 3) Creating a section tag to serve as container, then I will insert the image and the text 
 4) Then I start integrating some css for every element I make sure I apply CSS alignment.
