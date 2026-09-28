@@ -5,11 +5,12 @@ body
     align-items: center;
     background: hsl(212, 45%, 89%);
     display: flex;
-    height: 59em;
     justify-content: center;
+    min-height: 100vh;/*You set the page to height: 59em, so the flex container can become much taller than the viewport and center the card below the visible area on shorter screens. 
+    Replace it with min-height: 100vh or min-height: 100dvh so the page fills the viewport without forcing unnecessary vertical space.*/
     margin: 0;
 }
-section
+main
 {
     box-sizing: border-box;
     background: hsl(0, 0%, 100%);
@@ -17,14 +18,14 @@ section
     height: 499px;
     width: 320px;
 }
-section > div:first-child
+main > div:first-child
 {
     align-items: center;
     display: flex;
     height: 320px;
     justify-content: center;
 }
-section > div:last-child
+main > div:last-child
 {
     box-sizing: border-box;
     margin: auto;
@@ -36,7 +37,7 @@ img
 {
     border-radius: 10px;
 }
-div > p:first-child
+div > h1 /*I changed p tag to h1 since I changed the first p element in my index.html*/
 {
     color: hsl(218, 44%, 22%);
     font: 700 22px Outfit;
@@ -44,7 +45,7 @@ div > p:first-child
     padding: 10px;
     text-align: center;
 }
-div > p:last-child
+div > p /*I removed :last-child since there is no need to specify the p selector to be designed and also the p selector is being used here is only one*/
 {
     box-sizing: border-box;
     color: hsl(216, 15%, 48%);

@@ -8,20 +8,18 @@
   <link rel="stylesheet" href="CSS/qr_code.css">
   
   <title>Frontend Mentor | QR code component</title>
-
-  <style>
-    
-  </style>
 </head>
 <body>
-  <section>
+  <main><!--You use a <section> containing paragraphs without a heading or a page landmark, so screen reader users cannot quickly identify the page's main content or navigate to its title. Replace it with 
+    <main> and make the first paragraph an <h1>.-->
     <div>
-      <img src="images/image-qr-code.png" height="288px" alt="QR code image">
+      <img src="images/image-qr-code.png" height="288px" alt="QR code to visit Frontend Mentor"><!--You label the image only as QR code image, so someone using a screen reader does not learn what scanning it does. 
+      Change the alt text to something purposeful, such as QR code to visit Frontend Mentor.-->
     </div>
     <div>
-      <p>Improve your front-end skills by building projects</p>
+      <h1>Improve your front-end skills by building projects</h1><!--Changed p tag to h1 because these serves as a heading-->
       <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
     </div>
-  </section>
+  </main>
 </body>
 </html>

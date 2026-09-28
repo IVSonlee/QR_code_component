@@ -16,8 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author) :
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -51,6 +49,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
+- For my future improvements I realize I needed to be professional and specific when applying some changes especially when I push some changes in github
+it has to be clear and well defined and not complicated.
+
+For HTML tags I will try to be aware on what element or tag I should use 
 
 ### Useful resources
 
@@ -72,4 +74,9 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IVSonlee)
 
 ## Acknowledgments
+
+Jobstreet Profile: https://ph.jobstreet.com/profiles/iversonrichmond-lee-QkPdmlXNHv
+LinkedIn Profile: www.linkedin.com/in/iverson-richmond-lee-332029405
+Github Profile: https://github.com/IVSonlee
+
 
